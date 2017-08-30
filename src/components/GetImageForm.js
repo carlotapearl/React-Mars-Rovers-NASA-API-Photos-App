@@ -57,7 +57,7 @@ export default class GetImageForm extends Component {
           <select onChange={this.handleRover} id="rover" value={this.state.value}className="rover-select">
             <option value="Curiosity">Curiosity</option>
             <option value="Opportunity">Opportunity</option>
-            <option value="Spirit">Spirt</option>
+            <option value="Spirit">Spirit</option>
           </select>
           <label htmlFor="camera">Camera Type</label>
           <select onChange={this.handleCamera} id="camera" value={this.state.value}>
