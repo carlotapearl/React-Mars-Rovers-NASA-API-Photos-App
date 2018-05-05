@@ -80,5 +80,5 @@ Add other buttons with other API fetches from the Mars Rover API for different o
 ## Results  
 
 Once complete, your console should look like the following:
+[marsrover.gif](https://tiy-learn-content.s3.amazonaws.com/9bd3e188-marsrover.gif)
 
-![Mockup screen shot](https://github.com/carlotapearl/React-Mars-Rovers-NASA-API-Photos-App/blob/master/marsrover.gif)
