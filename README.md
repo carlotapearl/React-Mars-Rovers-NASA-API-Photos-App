@@ -9,7 +9,7 @@ There are no starter files for this application.
 * Use create-react-app to begin a new project.
 * Set up your project with components and styles folders inside of your `src` directory.
 * Be sure to link all style sheets and components together before starting.
-* Empty out your `App.js` component of everything in the return statement besides the main ``<div className="App">` and remove the  `className="App"` from the `<div>`.
+* Empty out your `App.js` component of everything in the return statement besides the main `div className="App">` and remove the  `className="App"` from the `<div>`.
 * You will need to get an API key from the NASA API website.
 * You can put the reason for your request as anything you wish or leave it blank.
 * NASA will populate your API KEY on the screen for you so you can copy and paste it as stated in the objectives for this project list below.
@@ -77,8 +77,5 @@ NASA Mars Rover API
 Use the NASA Mars Rover API docs to see the options for the query strings available. Add conditional statements to render <select> tags with the cameras available to the Rover that was chosen by the user.
 Add other buttons with other API fetches from the Mars Rover API for different options.
 
-## Results  
 
-Once complete, your console should look like the following:
-[marsrover.gif](https://tiy-learn-content.s3.amazonaws.com/9bd3e188-marsrover.gif)
 
