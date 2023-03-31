@@ -3,7 +3,7 @@ import GetImageButton from './GetImageButton'
 import ImageDisplay from './ImageDisplay'
 import '../styles/GetImageForm.css'
 
-const API_KEY = 'OPcwDGtbPBQeJgUjW41axnVQUAMniOyKaY3c3P4C'
+const API_KEY = ''
 
 export default class GetImageForm extends Component {
   constructor (props) {
